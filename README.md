@@ -1,4 +1,4 @@
-# HouseHub
+# Perspectiva
 
 ![Image](https://github.com/KatySFreel/perspectiva/blob/main/preview-PER.png)
 
